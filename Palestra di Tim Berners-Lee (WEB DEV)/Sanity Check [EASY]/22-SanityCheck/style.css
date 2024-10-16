@@ -1,0 +1,16 @@
+#header {
+    background-color: red;
+    padding: 80px;
+    text-align: center;
+}
+
+#body{
+    background-color: green;
+    padding: 80px;
+    text-align: center;
+    font-size: 28px;
+}
+
+#btn{
+    font-size: 40px;
+}
